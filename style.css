@@ -34,3 +34,9 @@ body{
 .facts-content-div li{
     font-size:large;
 }
+
+.gallery-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
